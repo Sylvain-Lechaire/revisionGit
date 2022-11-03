@@ -1,0 +1,4 @@
+reverse shell: quand le serveur se connecte a l'attaquant (type de webshell)
+webshell: script malveillant qui peux être envoyé sur un serveur distant par le biais d'une coquille dans le code 
+
+git init
